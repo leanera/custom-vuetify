@@ -21,15 +21,15 @@ storiesOf("Atoms/Texts/Headline", module)
   .add("headline-2 regular", () => ({
     components: { LeaHeadline },
     template:
-      '<lea-headline :level="2" class="gf-font-h2">Example headline H1</lea-headline>'
+      '<lea-headline :level="2" class="gf-font-h2">Example headline H2</lea-headline>'
   }))
   .add("headline-2 bold", () => ({
     components: { LeaHeadline },
     template:
-      '<lea-headline :level="2" class="gf-font-h2--bold">Example headline H1</lea-headline>'
+      '<lea-headline :level="2" class="gf-font-h2--bold">Example headline H2</lea-headline>'
   }))
   .add("headline-2 capital", () => ({
     components: { LeaHeadline },
     template:
-      '<lea-headline :level="2" class="gf-font-h2--upper">Example headline H1</lea-headline>'
+      '<lea-headline :level="2" class="gf-font-h2--upper">Example headline H2</lea-headline>'
   }));

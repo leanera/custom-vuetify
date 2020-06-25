@@ -15,7 +15,7 @@ storiesOf("Atoms/Inputs/Button", module).add("default", () => ({
       default: boolean("Loading", false)
     },
     text: {
-      default: text("Text", "Hallo Welt")
+      default: text("Text", "Hallo World")
     }
   },
   template: '<lea-button :text="text" :loading="loading" @click="click"/>',

@@ -10,7 +10,7 @@
     </lea-text-input>
     <lea-button
       :loading="loading"
-      text="Anmelden"
+      text="Sign in"
       :block="true"
       class="mt-10"
     ></lea-button>
