@@ -1,12 +1,12 @@
 {
-  "name": "@leanera/components",
+  "name": "@leanera/custom-vuetify",
   "version": "0.1.0",
-  "main": "dist/components.umd.js",
+  "main": "dist/custom-vuetify.umd.js",
   "scripts": {
     "test": "",
     "release": "standard-version",
     "serve": "vue-cli-service serve ./dev/main.ts",
-    "build": "vue-cli-service build --target lib --name components src/plugin.js",
+    "build": "vue-cli-service build --target lib --name custom-vuetify src/plugin.js",
     "lint": "vue-cli-service lint",
     "build-storybook": "build-storybook",
     "storybook": "start-storybook -p 6006"
