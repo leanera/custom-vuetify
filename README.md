@@ -15,6 +15,7 @@ application and maybe play around with the props and stuff. That's what [Storybo
 | ---                                                           | ---        |
 | [Vue](https://github.com/vuejs/vue)                           | 2.6.11     |
 | [@vue/cli](https://github.com/vuejs/vue-cli)                  | 4.4.4      |
+| [vuetify](https://github.com/vuetifyjs/vuetify)               | 2.2.11     |
 | [@storybook/vue](https://github.com/storybookjs/storybook)    | 5.3.19     |
 
 ## Vue Configuration
